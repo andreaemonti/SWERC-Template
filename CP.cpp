@@ -1,3 +1,4 @@
+/* You can find my template at github.com/andreaemonti/SWERC-Template */
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long int ll;
@@ -47,7 +48,7 @@ string ite2str(type_iterator begin, type_iterator end, string sep = " ") {
 	#define dbg_arr(x, len)
 	#define dbg_ite(x)
 	#define dbg_msg(x)
-	//#define endl '\n'
+	#define endl '\n'
 #endif
 /*-------------------------- BEGIN CODE --------------------------*/
 
